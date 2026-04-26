@@ -1,1 +1,1 @@
-PERN - Postgress, Express, React and Node
+PERN - Postgress, Express, React and Node.js
