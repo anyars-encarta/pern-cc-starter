@@ -1,1 +1,1 @@
-This is a PERN - Postgress, Express, React and Node.js app.
+This is a PERN - Postgress, Express, React and Node.js application.
